@@ -20,10 +20,10 @@ function criaElementosNaLista() {
     pEntrada.focus();
 }
 
-function limparElementosDaLista({
+function limparElementosDaLista(){
     limparLista();
     atualizarItensDeLista();
-})
+}
 
 
 function atualizarItensDeLista() {
